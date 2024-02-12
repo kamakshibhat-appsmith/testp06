@@ -5,14 +5,21 @@
       "packageName": "Untitled Package 1",
       "moduleUUID": "65c9ed96715531258dc4fa8b",
       "moduleName": "Select_public_users1Module",
-      "version": "0.0.3"
+      "version": "0.0.4"
     },
     {
       "packageUUID": "65c9ed96715531258dc4fa89",
       "packageName": "Untitled Package 1",
       "moduleUUID": "65c9ede9715531258dc4fab7",
       "moduleName": "Query3Module",
-      "version": "0.0.3"
+      "version": "0.0.4"
+    },
+    {
+      "packageUUID": "65c9ed96715531258dc4fa89",
+      "packageName": "Untitled Package 1",
+      "moduleUUID": "65c9eea2715531258dc4fb17",
+      "moduleName": "JSModule1",
+      "version": "0.0.4"
     }
   ],
   "clientSchemaVersion": 1,
